@@ -28,12 +28,13 @@
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/Windsurf_AI-000000?style=for-the-badge&logo=windsurf&logoColor=white)
 
+[![My Portfolio](https://img.shields.io/badge/My_Portfolio-Canva-7D2AE8?style=for-the-badge&logo=canva&logoColor=white)](https://minakolisa.my.canva.site/portfolio)
 ---
 
 ## 📊 Thống kê GitHub của mình (GitHub Stats)
 
 Kiểm tra độ chăm chỉ diệt bug và đóng góp code của mình tại đây:
-
+- 💼 **Xem Portfolio của mình tại đây:** [minakolisa.my.canva.site/portfolio](https://minakolisa.my.canva.site/portfolio)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NgocThy2k4&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" />
 </p>
