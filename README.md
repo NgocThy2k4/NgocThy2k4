@@ -1,82 +1,63 @@
-# Hey there! 👋 I'm Ngọc Thy
-<a href="https://platane.github.io/snk">
-  <img height="300px" src="https://user-images.githubusercontent.com/1659820/121798244-7c86d700-cc25-11eb-8c1c-b8e65556ac0d.gif" ></img>
-</a>
-
-[platane.github.io/snk](https://platane.github.io/snk)
-
-
-
-<!-- HỆ THỐNG CHỮ NHẢY NHẢY (TYPING EFFECT) -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=QA+/+QC+Automation;SPA+SMS+Project;Tech+Explorer;Bug+Hunter+✨" alt="Typing SVG" />
-</div>
-
-<!-- ĐẾM LƯỢT XEM PROFILE CÓ LOGO CANVA CHUYỂN ĐỘNG -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NgocThy2k4&label=PROFILE+VIEWS&color=7D2AE8&style=for-the-badge&logo=canva" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=36&duration=3000&pause=500&color=FF5722&vCenter=true&center=true&width=700&height=60&lines=%C4%90%E1%BB%92%20%C3%81N%3A%20H%E1%BB%86%20TH%E1%BB%90NG%20QU%E1%BA%A2N%20L%C3%9D%20QU%C3%81N%20%C4%82N;FLUTTER%20FOOD%20MANAGEMENT%20SYSTEM" alt="Typing SVG" />
 </p>
-
-## 🔮 About Me
-
-> ✨ Nơi trú ẩn của một chiếc Tester/QA đang tập tành gõ code. Chào mừng bạn đến với vũ trụ Git của Ngọc Thy!
-
-- 🔭 **Dự án hiện tại:** Kiểm thử và vận hành hệ thống **SPA SMS**.
-- 🌱 **Đang học tập:** Nâng cao kỹ năng Automation Testing và tư duy tối ưu hệ thống.
-- 💼 **Portfolio của mình:** Bấm vào nút tím Canva ở dưới để xem sản phẩm của mình nha!
-
-<p align="left">
-  <a href="https://minakolisa.my.canva.site/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/My_Portfolio-Canva-7D2AE8?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Portfolio" />
-  </a>
-</p>
-
----
-
-## 🛠️ Tech Stack (Công cụ sử dụng)
-
-### 🗄️ Database & Mạng:
-![Navicat](https://img.shields.io/badge/Navicat_Premium-007ACC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEyIDJMMiAyMmgyMEwxMiAyem0wIDRsNi41IDE0aC0xM0wxMiA2eiIvPjwvc3ZnPg==&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![OpenVPN](https://img.shields.io/badge/OpenVPN-FF6F00?style=for-the-badge&logo=openvpn&logoColor=white)
-
-### 📱 Giả lập & Trình soạn thảo:
-![BlueStacks](https://img.shields.io/badge/BlueStacks-117ACA?style=for-the-badge&logo=bluestacks&logoColor=white)
-![Android ADB](https://img.shields.io/badge/Android_ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 Sơ đồ Thống kê & Ngôn ngữ (Live Stats & Languages)
-
-<div align="center">
-  <!-- SƠ ĐỒ THÔNG TIN HOẠT ĐỘNG CHUNG -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NgocThy2k4&theme=dark&show_icons=true&hide_border=true&title_color=00D9FF&icon_color=7D2AE8" alt="GitHub Stats" />
-  
-  <!-- SƠ ĐỒ HÌNH TRÒN NGÔN NGỮ SỬ DỤNG TRONG GIT -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgocThy2k4&layout=compact&theme=dark&hide_border=true&title_color=00D9FF" alt="Top Languages" />
-</div>
-
----
-
-## 🔥 Chuỗi ngày hoạt động liên tục (Streak Stats)
-
-<div align="center">
-  <!-- BIỂU ĐỒ THEO DÕI ĐỘ CHĂM CHỈ (STREAK) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NgocThy2k4&theme=dark&hide_border=true&fire=FF6F00&ring=00D9FF" alt="Streak Stats" />
-</div>
-
----
-
-## 📈 Đồ thị hoạt động chi tiết (Contribution Graph)
-
-<div align="center">
-  <!-- SƠ ĐỒ ĐỒ THỊ SÓNG LƯỢN CHUYỂN ĐỘNG THEO NĂM -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=NgocThy2k4&theme=dark&bg_color=0D1117&color=00D9FF&line=7D2AE8&point=00D9FF" alt="Contribution Graph" />
-</div>
-
----
 
 <p align="center">
-  <i>"Cứ sai đi vì cuộc đời cho phép, cứ commit đi vì GitHub có nút Revert! 🚀"</i>
+  <img src="https://img.shields.io/badge/Flutter-3.7.2-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-Ready-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web-green?style=for-the-badge" alt="Platform">
 </p>
+
+---
+
+## 📱 Giới thiệu ngắn
+
+**Hệ thống Quản Lý Quán Ăn** là một ứng dụng di động đa nền tảng được phát triển hoàn toàn bằng **Flutter & Dart**. Ứng dụng giải quyết bài toán tối ưu quy trình vận hành cho các nhà hàng/quán ăn vừa và nhỏ, mang lại trải nghiệm gọi món mượt mà cho Khách hàng cùng một hệ thống quản trị (Admin) chuyên sâu từ quản lý kho, nhân sự đến phân tích doanh thu theo thời gian thực.
+
+### 👥 Thành viên thực hiện
+| Vai trò | Họ và tên | MSSV | Lớp |
+| :--- | :--- | :--- | :--- |
+| **Sinh viên thực hiện** | [Tên sinh viên] | [Mã số sinh viên] | [Tên lớp] |
+| **Giảng viên hướng dẫn** | [Tên giảng viên] | - | [Bộ môn / Khoa] |
+
+---
+
+## ✨ Các tính năng chính
+
+### 🛒 Dành cho Khách Hàng
+*   **🏠 Trang chủ thông minh:** Banner trượt slider sống động hiển thị món ăn nổi bật và các chương trình khuyến mại hot.
+*   **🍽️ Thực đơn trực quan:** Duyệt danh sách món ăn phân loại theo danh mục, tích hợp tìm kiếm nhanh và xem chi tiết hình ảnh.
+*   **🛍️ Giỏ hàng linh hoạt:** Thêm/xóa/sửa số lượng món ăn trực tiếp, tự động áp mã giảm giá và tính tổng tiền chuẩn xác.
+*   **💳 Thanh toán & Theo dõi:** Quy trình checkout tối giản, xem lịch sử đơn hàng và cập nhật trạng thái đơn hàng theo thời gian thực.
+*   **⭐ Đánh giá & Phản hồi:** Chức năng để lại nhận xét, chấm điểm sao giúp nâng cao chất lượng phục vụ của quán.
+*   **🔔 Thông báo cá nhân:** Nhận tin tức, ưu đãi hoặc cảnh báo đơn hàng ngay trên thanh thông báo.
+
+### 📊 Dành cho Admin / Quản lý viên
+*   **🍴 Quản trị thực đơn:** Toàn quyền Thêm/Sửa/Xóa món ăn, quản lý danh mục, cập nhật giá bán và trạng thái "Còn hàng/Hết hàng".
+*   **📦 Quản lý kho nâng cao:** Theo dõi số lượng nguyên liệu tồn kho, tự động đưa ra cảnh báo khi vật tư chạm ngưỡng tối thiểu.
+*   **👥 Điều phối nhân sự:** Thêm mới nhân viên, cập nhật thông tin và phân quyền bảo mật 3 cấp độ chặt chẽ (`Admin` / `Staff` / `Tester`).
+*   **🧾 Xử lý đơn hàng:** Tiếp nhận đơn, phân loại điều phối và cập nhật trạng thái vận chuyển cho khách hàng.
+*   **📈 Thống kê & Báo cáo:** Trực quan hóa dữ liệu kinh doanh thông qua biểu đồ hình cột/đường sinh động, xuất báo cáo doanh thu theo Ngày / Tháng / Năm.
+
+---
+
+## 🛠️ Công nghệ & Thư viện sử dụng
+
+### 🔹 Core Core & Database
+*   **Flutter (v3.7.2)** & **Dart**: Framework và ngôn ngữ lập trình tối ưu hiệu năng native.
+*   **SQLite (`sqflite`)**: Cơ sở dữ liệu nội bộ gọn nhẹ, truy vấn dữ liệu quan hệ cục bộ tốc độ cao.
+
+### 🔹 Thư viện chính (Dependencies)
+```yaml
+dependencies:
+  provider: ^6.1.4                     # Quản lý trạng thái hệ thống (State Management)
+  http: ^1.1.0                         # Xử lý API và các yêu cầu kết nối mạng
+  image_picker: ^1.1.0                 # Upload hình ảnh từ Camera/Thư viện cho món ăn
+  fl_chart: ^1.0.0                     # Công cụ vẽ biểu đồ thống kê doanh thu đa dạng
+  carousel_slider: ^5.0.0              # Slider trình chiếu món ăn nổi bật tại trang chủ
+  intl: ^0.18.1                        # Định dạng đơn vị tiền tệ (VNĐ/£) và thời gian
+  fluttertoast: ^8.0.9                 # Hiển thị thông báo nhanh (Toast Message) ngắn gọn
+  url_launcher: ^6.3.0                 # Hỗ trợ quay số hotline, mở bản đồ quán ăn nhanh
+  path_provider: ^2.1.5                # Truy cập thư mục bộ nhớ thiết bị lưu trữ DB
+  flutter_staggered_animations: ^1.0.0 # Tạo hiệu ứng mượt mà khi load danh sách món ăn
